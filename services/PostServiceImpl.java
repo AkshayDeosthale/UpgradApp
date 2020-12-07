@@ -25,7 +25,7 @@ package com.upgrad.ublog.services;
  *  returns all the posts corresponding to the email id using the findByEmailId() method of PostDAO interface.
  *  Note: The exception passed by DAO layer should not be passed to the presentation layer. Print the stack
  *  trace corresponding to the exception passed by DAO layer and throw a new exception of type Exception
- *  with a message "Some unexpected error occurred!"
+ *  with a message "Some unexpected error occurred!" hi
  */
 
 /**
